@@ -17,5 +17,5 @@ A Python utility that consolidates multiple CSV files into a single combined CSV
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/csv-combiner
+git clone https://github.com/driverx22/csv-combine
 cd csv-combine
